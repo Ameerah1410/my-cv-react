@@ -1,0 +1,34 @@
+/* Education.css */
+
+.education {
+  background-color: #ddf1f7;
+}
+
+.education h2 {
+  font-size: 24px;
+  color: #333;
+  padding-left: 10px;
+}
+
+.education ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.education li {
+  margin-bottom: 20px;
+}
+
+.education h3 {
+  font-size: 20px;
+  color: #555;
+  padding-left: 20px;
+  font-style: italic;
+}
+
+.education p {
+  font-size: 16px;
+  color: #777;
+  margin: 5px 0;
+  padding-left: 25px;
+}

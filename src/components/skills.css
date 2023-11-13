@@ -1,0 +1,29 @@
+/* Skills.css */
+
+.skills {
+  background-color: #ddf1f7;
+}
+
+.skills h2 {
+  font-size: 24px;
+  color: #333;
+  margin-left: 10px;
+}
+
+.skills .skills-list ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex; /* Use flexbox to display list items horizontally */
+  flex-wrap: wrap; /* Wrap items to the next line if they don't fit */
+}
+
+.skills .skills-list li {
+  font-size: 16px;
+  color: #333;
+  margin-right: 10px; /* Add margin between skills */
+  margin-bottom: 10px;
+  border: 1px solid #bee7f3;
+  padding: 5px 10px;
+  border-radius: 25px;
+  background-color: #bee7f3;
+}
